@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+  author="Панкратов Александр Владимирович Sowa1980 https://www.openstreetmap.org/user/Sowa1980"
+  link="https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box"
+  description="Subscriber mailbox"
+  ru.description=" Служит для указания Абонентского почтового ящика"
+  shortdescription="Subscriber mailbox"
+  ru.shortdescription="Абонентский почтовый ящик"
+  version="0.1_2020-05.02">
+                    
+  <group name="Annotation">
+    <item name="Абонентский почтовый ящик" type="node,closedway,multipolygon" preset_name_label="true" icon="letter_box.png">
+      <space/>
+      <text key="post:street" text="улица" match="key"/>
+      <text key="post:housenumber" text="номер дома" match="key"/>
+      <text key="post:flats" text="номера квартир" match="key"/>
+	  <link href="https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box"/>
+	  <link href="https://www.openstreetmap.org/user/Sowa1980" text="contacts Author" ru.text="контакты Автор"/>
+    </item>
+  </group>
+</presets>
