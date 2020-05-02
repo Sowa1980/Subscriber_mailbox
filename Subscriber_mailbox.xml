@@ -2,6 +2,7 @@
 <presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
   author="Панкратов Александр Владимирович Sowa1980 https://www.openstreetmap.org/user/Sowa1980"
   link="https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box"
+  icon="letter_box_32.svg"
   description="Subscriber mailbox"
   ru.description=" Служит для указания Абонентского почтового ящика"
   shortdescription="Subscriber mailbox"
