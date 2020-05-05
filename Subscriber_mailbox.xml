@@ -14,6 +14,7 @@
       <space/>
 	  <text key="amenity" text="Абонентский почтовый ящик" default="letter_box" />
 	  <space/>
+	  <key key="amenity" value="letter_box" />
 	  <text key="post:street" text="улица" match="key"/>
       <text key="post:housenumber" text="номер дома" match="key"/>
       <text key="post:flats" text="номера квартир" match="key"/>
