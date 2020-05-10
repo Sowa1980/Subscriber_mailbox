@@ -22,8 +22,8 @@
       <text key="post:unit" text="Номер квартиры" uk.text="Номер квартири" match="key"/>
       <text key="post:flats" text="Номера квартир" uk.text="Номера квартир" match="key"/>
 	  <space/>
-	  <text key="material" text="Материал" match="key"/>
-	  <text key="colour" text="Цвет" match="key"/>
+	  <text key="material" text="material" ru.text="Материал" uk.text="Mатеріал" match="key"/>
+	  <text key="colour" text="colour" ru.text="Цвет" uk.text="Kолір" match="key"/>
 	  <check key="drive_through" text="Drive through" />
 	  <link href="https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box"/>
 	  <link href="https://www.openstreetmap.org/user/Sowa1980" text="contacts Author" ru.text="контакты Автор"/>
