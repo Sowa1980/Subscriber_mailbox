@@ -24,6 +24,7 @@
 	  <space/>
 	  <text key="material" text="Материал" match="key"/>
 	  <text key="colour" text="Цвет" match="key"/>
+	  <check key="drive_through" text="Drive through" />
 	  <link href="https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box"/>
 	  <link href="https://www.openstreetmap.org/user/Sowa1980" text="contacts Author" ru.text="контакты Автор"/>
     </item>
