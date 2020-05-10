@@ -4,13 +4,15 @@
   link="https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box"
   icon="letter_box_32.svg"
   description="Subscriber mailbox"
+  uk.description="Абонентська скринька"
   ru.description=" Служит для указания Абонентского почтового ящика"
   shortdescription="Subscriber mailbox"
   ru.shortdescription="Абонентский почтовый ящик"
+  uk.shortdescription="Абонентська скринька"
   version="0.1_2020-05.02">
                     
    <group name="Annotation">
-   <item name="Абонентский почтовый ящик" type="node,closedway,multipolygon" preset_name_label="true" icon="letter_box.png">
+   <item name="Абонентский почтовый ящик" uk.text="Абонентська скринька" type="node,closedway,multipolygon" preset_name_label="true" icon="letter_box.png">
       <space/>
 	  <text key="amenity" text="Абонентский почтовый ящик" uk.text="Абонентська скринька" default="letter_box" />
 	  <space/>
