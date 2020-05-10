@@ -17,7 +17,8 @@
 	  <key key="amenity" value="letter_box" />
 	  <text key="post:street" text="улица" uk.text="вулиця" match="key"/>
       <text key="post:housenumber" text="номер дома" uk.text="номер будинку" match="key"/>
-      <text key="post:flats" text="номера квартир" uk.text="номер квартири" match="key"/>
+      <text key="post:unit" text="номер квартиры" uk.text="номер квартири" match="key"/>
+      <text key="post:flats" text="номера квартир" uk.text="номера квартир" match="key"/>
 	  <space/>
 	  <text key="material" text="материал" match="key"/>
 	  <text key="colour" text="цвет" match="key"/>
