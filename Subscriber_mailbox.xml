@@ -12,7 +12,7 @@
   version="0.1_2020-05.02">
                     
    <group name="Annotation">
-   <item name="Абонентский почтовый ящик" uk.text="Абонентська скринька" type="node,closedway,multipolygon" preset_name_label="true" icon="letter_box.png">
+   <item name="Абонентский почтовый ящик" uk.name="Абонентська скринька" type="node,closedway,multipolygon" preset_name_label="true" icon="letter_box.png">
       <space/>
 	  <text key="amenity" text="Абонентский почтовый ящик" uk.text="Абонентська скринька" default="letter_box" />
 	  <space/>
