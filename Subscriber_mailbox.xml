@@ -17,10 +17,10 @@
 	  <text key="amenity" text="Абонентский почтовый ящик" uk.text="Абонентська скринька" default="letter_box" />
 	  <space/>
 	  <key key="amenity" value="letter_box" />
-	  <text key="post:street" text="улица" uk.text="вулиця" match="key"/>
-      <text key="post:housenumber" text="номер дома" uk.text="номер будинку" match="key"/>
-      <text key="post:unit" text="номер квартиры" uk.text="номер квартири" match="key"/>
-      <text key="post:flats" text="номера квартир" uk.text="номера квартир" match="key"/>
+	  <text key="post:street" text="Улица" uk.text="Вулиця" match="key"/>
+      <text key="post:housenumber" text="Номер дома" uk.text="Номер будинку" match="key"/>
+      <text key="post:unit" text="Номер квартиры" uk.text="Номер квартири" match="key"/>
+      <text key="post:flats" text="Номера квартир" uk.text="Номера квартир" match="key"/>
 	  <space/>
 	  <text key="material" text="материал" match="key"/>
 	  <text key="colour" text="цвет" match="key"/>
