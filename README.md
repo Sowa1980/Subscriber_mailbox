@@ -1,5 +1,5 @@
 # Абонентский почтовый ящик ![icon](https://github.com/Sowa1980/Subscriber_mailbox_preset/blob/master/letter_box.png) 
-Заготовок тегов для [JOSM](https://josm.openstreetmap.de/), служит для указания Абонентский почтовый ящиков.
+Заготовок тегов для [JOSM](https://josm.openstreetmap.de/), служит для указания Абонентских почтовыв ящиков.
 ### Основана [на вики страницы](https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box)
 ### Языки локализации: 
 Русский, Украинский.
