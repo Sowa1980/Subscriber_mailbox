@@ -1,4 +1,4 @@
-# Абонентский почтовый ящик ![icon](https://github.com/Sowa1980/Company_Rekvizit_preset/blob/master/Rekvizit-min.png) 
+# Абонентский почтовый ящик ![icon](https://github.com/Sowa1980/Subscriber_mailbox_preset/blob/master/letter_box.png) 
 Набор заготовок для [JOSM](https://josm.openstreetmap.de/), служит для указания Абонентский почтовый ящиков.
 ## Основана [на вики страницы](https://wiki.openstreetmap.org/wiki/RU:Key:operator)
 ### Установка
