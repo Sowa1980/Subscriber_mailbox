@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+  author="Панкратов Александр Владимирович Sowa1980 https://www.openstreetmap.org/user/Sowa1980"
+  link="https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box"
+  icon="letter_box_32.svg"
+  
+  description="Serves for indicating the Subscriber mailbox"
+  shortdescription="Subscriber mailbox"
+  
+  ru.description="Служит для указания Абонентского почтового ящика"
+  ru.shortdescription="Абонентский почтовый ящик"
+  
+  uk.description="Служить для вказівки Абонентського поштової скриньки"
+  uk.shortdescription="Абонентська поштова скринька"
+  
+  be.description="Служыць для ўказанні Абаненцкага паштовай скрыні"
+  be.shortdescription="Абаненцкі паштовую скрыню"
+  
+  version="0.1_2020-05.02">
+                    
+   <group name="Annotation">
+   <item name="Абонентский почтовый ящик" uk.name="Абонентська поштова скринька" be.name="Абаненцкі паштовую скрыню" type="node,closedway,multipolygon" preset_name_label="true" icon="letter_box.png">
+      <space/>
+	  <text key="amenity" text="Абонентский почтовый ящик" uk.text="Абонентська поштова скринька" be.name="Абаненцкі паштовую скрыню" default="letter_box" />
+	  <space/>
+	  <key key="amenity" value="letter_box" />
+	  <text key="post:street" text="street" ru.text="Улица" uk.text="Вулиця" be.text="Bуліца" match="key"/>
+      <text key="post:housenumber" text="housenumber" ru.text="Номер дома" uk.text="Номер будинку" be.text="Нумар дома" match="key"/>
+      <text key="post:unit" text="unit" ru.text="Номер квартиры" uk.text="Номер квартири" be.text="Нумар кватэры" match="key"/>
+      <text key="post:flats" text="flats" ru.text="Номера квартир" uk.text="Номери квартир" be.text="Нумары кватэр" match="key"/>
+	  <space/>
+	  <text key="letter_box:material" text="material" ru.text="Материал" uk.text="Mатеріал" be.text="Матэрыял" match="key"/>
+	  <text key="letter_box:colour" text="colour" ru.text="Цвет" uk.text="Kолір" be.text="Колер" match="key"/>
+	  <check key="drive_through" text="Drive through" />
+	  <combo key="letter_box:mount" text="Mounting" ru.text="Установлен" uk.text="Встановлено" be.text="Усталяваны" values="building,wood,pier,pole,wall,fence,street_lamp,telegraph_pole" match="key"/>
+	  <combo key="letter_box:design" text="Design" ru.text="Mодель" uk.text="Mодель" be.text="Mодель" match="key"/>
+	  <space/>
+	  <link href="https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box"/>
+	  <link href="https://www.openstreetmap.org/user/Sowa1980" text="contacts Author" ru.text="контакты Автор"/>
+    </item>
+  </group>
+</presets>
+
