@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+  author="Панкратов Александр Владимирович Sowa1980 https://www.openstreetmap.org/user/Sowa1980"
+  link="https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box"
+  icon="letter_box_32.svg"
+  description="Subscriber mailbox"
+  uk.description="Абонентська скринька"
+  ru.description=" Служит для указания Абонентского почтового ящика"
+  shortdescription="Subscriber mailbox"
+  ru.shortdescription="Абонентский почтовый ящик"
+  uk.shortdescription="Абонентська скринька"
+  version="0.1_2020-05.02">
+                    
+   <group name="Annotation">
+   <item name="Абонентский почтовый ящик" uk.name="Абонентська скринька" type="node,closedway,multipolygon" preset_name_label="true" icon="letter_box.png">
+      <space/>
+	  <text key="amenity" text="Абонентский почтовый ящик" uk.text="Абонентська скринька" default="letter_box" />
+	  <space/>
+	  <key key="amenity" value="letter_box" />
+	  <text key="post:street" text="Улица" uk.text="Вулиця" match="key"/>
+      <text key="post:housenumber" text="Номер дома" uk.text="Номер будинку" match="key"/>
+      <text key="post:unit" text="Номер квартиры" uk.text="Номер квартири" match="key"/>
+      <text key="post:flats" text="Номера квартир" uk.text="Номера квартир" match="key"/>
+	  <space/>
+	  <text key="letter_box:material" text="material" ru.text="Материал" uk.text="Mатеріал" match="key"/>
+	  <text key="letter_box:colour" text="colour" ru.text="Цвет" uk.text="Kолір" match="key"/>
+	  <check key="drive_through" text="Drive through" />
+	  <combo key="letter_box:mount" text="Mounting" ru.text="Установлен" values="building,wood,pier,pole,wall,fence,street_lamp,telegraph_pole" match="key"/>
+	  <combo key="letter_box:design" text="Design" ru.text="Mодель" match="key"/>
+	  <space/>
+	  <link href="https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box"/>
+	  <link href="https://www.openstreetmap.org/user/Sowa1980" text="contacts Author" ru.text="контакты Автор"/>
+    </item>
+  </group>
+</presets>
+
