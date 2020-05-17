@@ -2,7 +2,7 @@
 Заготовок тегов для [JOSM](https://josm.openstreetmap.de/), служит для указания Абонентских почтовыв ящиков. [Посмотреть заготовку](https://github.com/Sowa1980/Subscriber_mailbox_preset/blob/master/Subscriber%20mailbox_window_skrin_RU.png)
 ### Основана [на вики страницы](https://wiki.openstreetmap.org/wiki/RU:Tag:amenity%3Dletter_box). 
 ### Языки локализации: 
-[Русский](https://github.com/Sowa1980/Subscriber_mailbox_preset/blob/master/Subscriber%20mailbox_window_skrin_RU.png), [Украинский](https://github.com/Sowa1980/Subscriber_mailbox_preset/blob/master/Subscriber%20mailbox_window_skrin_UK.png).
+[Русский](https://github.com/Sowa1980/Subscriber_mailbox_preset/blob/master/Subscriber%20mailbox_window_skrin_RU.png), [Українська мова](https://github.com/Sowa1980/Subscriber_mailbox_preset/blob/master/Subscriber%20mailbox_window_skrin_UK.png), [Беларуская мова](https://github.com/Sowa1980/Subscriber_mailbox_preset/blob/master/Subscriber%20mailbox_window_skrin_BE.png)
 ### Установка
 Подключить заготовку тегов в JOSM можно, запустите JOSM: далле в меню "Правка" выберите пукт "Настройки" или нажмите (F12) в открывшемся окне с лева выберите икону "Параметры проекции" (третье сверху) откроется окно "Настройки карты" даллее перейти на вкладку "Заготовки тегов" в правой стороне нажмите на`+`, в открывшемся новом окне в строке "Название (необязательно)" задайте желаемое имя в строке "URL / файл" укажите путь до скаченного файла (формат файла должен быть *.xml или *.zip).
 ### Визуализация 
