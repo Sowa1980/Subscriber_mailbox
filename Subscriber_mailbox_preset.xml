@@ -16,7 +16,7 @@
   be.description="Служыць для ўказанні Абаненцкага паштовай скрыні"
   be.shortdescription="Абаненцкі паштовую скрыню"
   
-  version="0.1_2020-05.02">
+  version="0.1_2020-05-02">
                     
    <group name="Annotation">
    <item name="Абонентский почтовый ящик" uk.name="Абонентська поштова скринька" be.name="Абаненцкі паштовую скрыню" type="node,closedway,multipolygon" preset_name_label="true" icon="letter_box.png">
